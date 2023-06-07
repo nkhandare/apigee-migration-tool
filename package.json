@@ -1,0 +1,26 @@
+{
+  "name": "apigee-migrate-tool",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apigeecs/apigee-migrate-tool.git"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "async": "^2.6.1",
+    "csvtojson": "^0.3.19",
+    "grunt": "^1.0.3",
+    "grunt-available-tasks": "^0.6.3",
+    "grunt-mkdir": "^0.1.2",
+    "load-grunt-config": "^3.0.1",
+    "load-grunt-tasks": "^4.0.0",
+    "readline": "0.0.7",
+    "request": "^2.88.0",
+    "time-grunt": "^1.0.0"
+  },
+  "dependencies": {
+    "google-auth-library": "^8.8.0",
+    "querystring": "^0.2.1",
+    "replace": "^1.2.2"
+  }
+}

@@ -1,0 +1,47 @@
+deleteApps
+deleteDevs
+deleteEnvKVM
+deleteFlowHooks
+deleteKeys
+deleteOrgKVM
+deleteProducts
+deleteProxies
+deleteProxyKVM
+deleteReports
+deleteSharedFlows
+deleteTargetServers
+
+deployProxies to org
+deploySharedFlows to org
+
+exportApps
+exportDevs
+exportEnvKVM
+exportFlowHooks
+exportTargetServers
+exportOrgKVM
+exportProducts
+exportProxies
+exportProxyKVM
+exportReports
+exportSharedFlows
+
+importTargetServers
+importApps
+importDevs
+importEnvKVM
+importFlowHooks
+importKeys
+importOrgKVM
+importProducts
+importProxies
+importProxiesToX
+importProxyKVM
+importReports
+importSharedFlows
+
+readCSVApps
+readCSVDevs
+
+undeployProxies to org
+undeploySharedFlows to org
